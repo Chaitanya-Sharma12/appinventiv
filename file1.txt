@@ -2,4 +2,8 @@ this is file
 
 more content added
 Changes in feature-branch
+<<<<<<< HEAD
 Master branch changes
+=======
+Feature branch conflicting changes
+>>>>>>> feature-branch
