@@ -7,3 +7,4 @@ Master branch changes
 =======
 Feature branch conflicting changes
 >>>>>>> feature-branch
+Remote repository changes
